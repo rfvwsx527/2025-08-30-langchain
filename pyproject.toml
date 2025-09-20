@@ -11,4 +11,5 @@ dependencies = [
     "langchain-ollama",
     "langchain-google-genai",
     "python-dotenv>=1.1.1",
+    "gradio>=5.46.1",
 ]
